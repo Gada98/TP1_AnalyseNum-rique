@@ -3,7 +3,7 @@ Dans le TP1 d'analyse numérique on étude la résolution d'une fonction f(x)=0.
 
 
 
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Gada98/TP1_AnalyseNum-rique/main?labpath=TP1.ipynb)
 
 
 
