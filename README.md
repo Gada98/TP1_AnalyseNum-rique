@@ -14,4 +14,4 @@ TP1:
 
 
 TP2:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Gada98/TP1_AnalyseNum-rique/main?labpath=TP2_analyse.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Gada98/TP1_AnalyseNum-rique)
