@@ -7,7 +7,7 @@ Dans le TP1 d'analyse numérique, on étude la résolution d'une fonction f(x)=0
 
 3) La méthode de Newton:   Newton a proposé une méthode générale pour obtenir une telle approximation. L'idée est de remplacer la courbe représentative de la fonction par sa tangente. On part d'un point x0 de l'intervalle de définition de f, et on considère la tangente à la courbe représentative de f en (x0,f(x0)). Soit x1 l'abscisse de l'intersection de la tangente avec l'axe des abscisses. Puisque la tangente est proche de la courbe, on peut espérer que x1 donne une meilleure estimation d'une solution de l'équation f(x)=0 que x0.
 
-https://github.com/Gada98/TP1_AnalyseNum-rique/blob/main/TP1.ipynb
+
 
 Dans le TP2 d'analyse numérique,l'interpolation polynomiale est une technique d'interpolation d'une fonction par un polynome. Etant donnés une fonction f : [a,b]->R et N >= 1 un entier naturel. Soient x0,x1,...,xN (N+1) points deux à deux distincts dans [a,b]. Le but est de chercher à trouver un polynome p vérifiant le système suivant:
              f(xi) = p(xi), pour tout i = 0,1,...,N
